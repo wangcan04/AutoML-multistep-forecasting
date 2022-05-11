@@ -1,0 +1,11 @@
+# the model numbers that auto-keras can evaluate with about 2 hours time budget
+
+autokeras10:
+145, 383, 55, 584, 246, 347, 333, 156, 80, 310,
+216, 220, 598, 227, 97, 59, 398, 412, 422, 61,
+
+
+autokeras200:
+80, 56, 27, 172, 20, 105, 169, 205, 75, 24,
+310, 330, 286, 413, 22, 41, 262, 67,292, 62,
+

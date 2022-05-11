@@ -1,0 +1,2 @@
+timeseries_id,timestamp_created,source,category,contributor,name,description,sampling_unit,sampling_rate
+dcbba1bf-a007-11e8-9590-0242ac120002,"2018-08-14 21:20:26","SAFE project","Animal sounds","Sarab Sethi","Tropical forest soundscape","1 minute of a tropical forest soundscape taken from a virgin forest site in the SAFE project landscape, Sabah, Borneo",KHz,44.10

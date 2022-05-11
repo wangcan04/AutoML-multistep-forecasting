@@ -1,0 +1,2 @@
+timeseries_id,timestamp_created,source,category,contributor,name,description,sampling_unit,sampling_rate
+014a7a6a-3877-11e8-8680-0242ac120002,"2018-04-05 02:14:00","Driven pendulum Ben","Driven pendulum with dissipation",,SY_DPend_L20000_N5000_b0_A0_Om0.7_yi_2_0,,,
