@@ -1,2 +1,0 @@
-timeseries_id,timestamp_created,source,category,contributor,name,description,sampling_unit,sampling_rate
-008b66d7-3871-11e8-8680-0242ac120002,"2018-04-05 01:31:02","Ben Random coefficient AR simulations","Autoregressive with noise",,AR_L7500_p4_nm_0.4_5,,,

@@ -1,2 +1,0 @@
-timeseries_id,timestamp_created,source,category,contributor,name,description,sampling_unit,sampling_rate
-00434075-3876-11e8-8680-0242ac120002,"2018-04-05 02:06:49","Nonlinear observation autoregressive","Correlated noise",,SY_AR1_x5_a1_-0.9_N10000_1,,,
