@@ -1,0 +1,2 @@
+timeseries_id,timestamp_created,source,category,contributor,name,description,sampling_unit,sampling_rate
+b87dd504-3881-11e8-8680-0242ac120002,"2018-04-05 03:30:43","Hawaii Ocean Time-series Data Organization & Graphical System","Zooplankton growth",,BATS_zoop_s1000_dryweight,,,
